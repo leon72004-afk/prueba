@@ -1,0 +1,6 @@
+{
+  "name": "AI Workflow Chat (n8n Integration)",
+  "description": "Chat web con integración de extremo a extremo con Webhooks de n8n, API proxy segura, historial de conversación y UI estilo SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
